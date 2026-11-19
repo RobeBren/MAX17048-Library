@@ -1,0 +1,7 @@
+{
+    "name": "BR_MAX17048-Library",
+    "version": "1.0.0",
+    "description": "C++ driver for the MAX17048 fuel gauge monitor",
+    "frameworks": ["arduino"],
+    "platforms": "*"
+}
